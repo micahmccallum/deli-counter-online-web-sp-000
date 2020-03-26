@@ -3,5 +3,5 @@ katz_deli = []
 
 
 def line(array)
-  puts "The line is currently empty." if !array.length
+  puts "The line is currently empty." if !(array.length)
 end
