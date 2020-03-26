@@ -11,4 +11,5 @@ def line(array)
       line << " #{index + 1}. #{customer}"
     end
     puts line
+  end
 end
