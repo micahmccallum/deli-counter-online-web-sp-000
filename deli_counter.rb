@@ -22,4 +22,5 @@ end
 def now_serving(array)
   if array.length
     puts "Now serving "
+  end
 end
